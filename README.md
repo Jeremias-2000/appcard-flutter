@@ -1,4 +1,4 @@
-# appmycard
+# myappcard
 
 A new Flutter project.
 
